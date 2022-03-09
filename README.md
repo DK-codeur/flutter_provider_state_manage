@@ -1,4 +1,4 @@
-# navigation
+# Sate management & navigation
 
 A new Flutter project.
 
